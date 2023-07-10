@@ -1,0 +1,2 @@
+C:\Programming\JAVA нетология\Main\HWFiles\temp\temp.txt
+Все файлы были созданы успешно!
