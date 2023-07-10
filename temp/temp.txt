@@ -1,0 +1,2 @@
+C:\Programming\JAVA нетология\Main\Games\temp\temp.txt
+Все файлы были созданы успешно!
